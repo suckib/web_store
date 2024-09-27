@@ -8,12 +8,20 @@ Deployment : https://web-store-ss.onrender.com/
 
 ## Setup
 
-To run this app locally: ```npm run build```
+To run this app locally: 
+```
+npm run build
+```
 
-Start this app: ```npm run start```
+Start this app: 
+```
+npm run start
+```
 
-set the .env file with 
+## set the .env file
 
+```
 MONGO URI = mongodb_uri
 
 PORT=5000
+```
